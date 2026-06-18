@@ -2,13 +2,13 @@
 
 <!-- ========== GREETING ========== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hello!!+Nice+to+meet+you+%F0%9F%98%8A%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=你好啊!!!+相互认识一下+%F0%9F%98%8A%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 
 <br>
 
 <!-- ========== ABOUT ME ========== -->
 
-## 👤  About Me
+## 👤  关于我
 
 <img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" />
 
@@ -16,16 +16,16 @@
 
 |  |  |
 |:---:|---|
-| 🎒 | **An ordinary student from Shenzhen** |
-| 🍎 | **Apple fanatic** — except I still reach for Windows when it comes to PCs |
-| 🚄 | **Chinese railway enthusiast** — trains over everything |
-| ✈️ | **Part-time aviation geek** — planes are the second-fastest love after trains |
-| 💡 | **Idea-rich, skill-still-growing coding hobbyist** — my brain runs faster than my fingers |
-| 🌻 | **Huawei Developer** — building apps (and patience) on HarmonyOS |
-| 📟 | **Digital antique collector** — well, collecting in my head for now 😑 |
-| 🏷️ | **Local Samsung tech whiz** — if it says Galaxy, I've probably tinkered with it |
-| 🎨 | **UI design lover** — I genuinely think my interfaces look gorgeous 😁 |
-| 📜 | **History buff** — old stories, new perspectives |
+| 🎒 | **深圳普通学生一枚** |
+| 🍎 | **苹果公司忠实粉丝**——但电脑还是喜欢用 Windows |
+| 🚄 | **中国铁路爱好者**——火车大于一切 |
+| ✈️ | **半个飞行爱好者**——飞机是除火车外的第二大热爱 |
+| 💡 | **技术不够、点子很多的编程爱好者**——脑子转得比手快 |
+| 🌻 | **华为开发者**——正在鸿蒙上开发应用（和耐心） |
+| 📟 | **数码古董收藏家**——不过目前只停留在「想收藏」阶段 😑 |
+| 🏷️ | **当地三星科技小达人**——带 Galaxy 字样的东西我大概都折腾过 |
+| 🎨 | **热爱程序界面设计**——我真心觉得我设计的界面超好看 😁 |
+| 📜 | **喜欢历史**——老故事，新视角 |
 
 <br>
 
@@ -33,15 +33,15 @@
 
 <!-- ========== CURRENT STATUS ========== -->
 
-## ⏳  Where I Am Right Now
+## ⏳  我的现状
 
 </div>
 
 |  |  |
 |:---:|---|
-| 🧊 | **An introvert (INFP-ish)​** trying real hard to become an extrovert — and failing gracefully |
-| 🤝 | **A few solid ride-or-die friends** — quality over quantity, always |
-| 📱 | **Grinding on a Huawei app these past few days** — and I'm *this* close to throwing in the towel 😅 |
+| 🧊 | **我是个 I 人**，正在尝试转成 E 人——但真的很难 |
+| 🤝 | **暂且只有几个铁哥们**——质量永远大于数量 |
+| 📱 | **近几天正在为华为开发应用**——已经快要放弃了 😅 |
 
 <br>
 
@@ -49,13 +49,13 @@
 
 <!-- ========== FIND ME ========== -->
 
-## 🌐  Find Me Across the Internet
+## 🌐  各平台账号
 
 </div>
 
 <div align="center">
 
-| Platform | Handle |
+| 平台 | 账号 |
 |:---:|---|
 | <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height="28"> | **小源我吃** |
 | <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="28"> | **小源计划** |
@@ -72,7 +72,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1200&color=FFD93D&center=true&vCenter=true&width=1000&lines=So+glad+you+stopped+by!;Maybe+we'll+turn+out+to+be+like-minded+partners+%F0%9F%98%8A%E2%9C%8C%EF%B8%8F;See+you+around!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1200&color=FFD93D&center=true&vCenter=true&width=1000&lines=很高兴认识你!;说不定我们还会是志同道合的伙伴+%F0%9F%98%8A%E2%9C%8C%EF%B8%8F;有缘再见!" alt="Typing SVG" />
 
 <br><br>
 
@@ -84,6 +84,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=XiaoYuanWatch&color=ff6b6b&style=flat-square&label=👀+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=ff6b6b&style=flat-square&label=👀+Profile+Views)
 
 </div>
