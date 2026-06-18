@@ -10,7 +10,7 @@
 
 ## 👤  关于我
 
-<img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/People/Man%20Technologist.png" alt="Man Technologist" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@main/Emojis/People/Man%20Technologist.png" alt="Man Technologist" />
 
 </div>
 
@@ -23,7 +23,7 @@
 | 💡 | **技术不够、点子很多的编程爱好者**——脑子转得比手快 |
 | 🌻 | **华为开发者**——正在鸿蒙上开发应用（和耐心） |
 | 📟 | **数码古董收藏家**——不过目前只停留在「想收藏」阶段 😑 |
-| 🏷️ | **当地三星科技小达人**——带基本电路的东西我大概都折腾过，除了那些真的会把人电死的 |
+| 🏷️ | **当地三星科技小达人**——带简单电路的东西我大概都折腾过，除了真的会把人电死的那种 |
 | 🎨 | **热爱程序界面设计**——我真心觉得我设计的界面超好看 😁 |
 | 📜 | **喜欢历史**——老故事，新视角 |
 
@@ -76,7 +76,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@main/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" />
 
 </div>
 
