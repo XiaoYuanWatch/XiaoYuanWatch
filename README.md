@@ -56,7 +56,7 @@
 | Platform | Handle |
 |:---:|---|
 | <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height="28"> | **小源我吃** |
-| <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="28"> | **小源计划** |
+| <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="28"> | **小源我吃** |
 | <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" height="28"> | **XiaoYuan_Watch.New@outlook.com** |
 | <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" height="28"> | **XiaoYuan_Hello** |
 
